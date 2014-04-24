@@ -1,0 +1,16 @@
+﻿Build started 4/17/2014 12:34:56 AM.
+     1>Project "C:\Users\Jackie Wei\Desktop\Pollution\PoseurSpriteTypesImporter\PoseurSpriteTypesImporter.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Jackie Wei\Desktop\Pollution\Temp\PoseurSpriteTypesImporter\Debug\\" /Fd"C:\Users\Jackie Wei\Desktop\Pollution\Temp\PoseurSpriteTypesImporter\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\psti\PoseurSpriteTypesImporter.cpp src\psti_VS\stdafx.cpp
+         stdafx.cpp
+         PoseurSpriteTypesImporter.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Jackie Wei\Desktop\Pollution\Common\PoseurSpriteTypesImporter.lib" /NOLOGO "C:\Users\Jackie Wei\Desktop\Pollution\Temp\PoseurSpriteTypesImporter\Debug\PoseurSpriteTypesImporter.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\PoseurSpriteTypesImporter\Debug\stdafx.obj"
+         PoseurSpriteTypesImporter.vcxproj -> C:\Users\Jackie Wei\Desktop\Pollution\Common\PoseurSpriteTypesImporter.lib
+     1>Done Building Project "C:\Users\Jackie Wei\Desktop\Pollution\PoseurSpriteTypesImporter\PoseurSpriteTypesImporter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.10

@@ -1,0 +1,48 @@
+﻿Build started 4/23/2014 4:07:26 PM.
+     1>Project "C:\Users\Jackie Wei\Desktop\Pollution\SimpleSideScrollerFramework\SimpleSideScrollerFramework.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\\" /Fd"C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\sssf\gsm\state\GameStateManager.cpp
+         GameStateManager.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Jackie Wei\Desktop\Pollution\Common\SimpleSideScrollerFramework.lib" /NOLOGO "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\GameDataLoader.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\Game.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\WStringTable.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\GameGraphics.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\RenderList.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\TextureManager.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\BotRecycler.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\NPC.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\RandomFloatingBot.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\RandomJumpingBot.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\AABB.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\CollidableObject.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\Physics.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\AnimatedSprite.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\AnimatedSpriteType.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\SpriteManager.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\TopDownSprite.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\GameStateManager.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\SparseLayer.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\TiledLayer.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\World.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\Button.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\Cursor.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\GameGUI.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\ScreenGUI.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\Viewport.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\GameInput.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\DirectXGraphics.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\DirectXTextureManager.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\WindowsInput.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\WindowsOS.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\WindowsTimer.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\BufferedTextFileReader.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\GameText.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\TextFileWriter.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\SimpleSideScrollerFramework\Debug\stdafx.obj"
+         SimpleSideScrollerFramework.vcxproj -> C:\Users\Jackie Wei\Desktop\Pollution\Common\SimpleSideScrollerFramework.lib
+     1>Done Building Project "C:\Users\Jackie Wei\Desktop\Pollution\SimpleSideScrollerFramework\SimpleSideScrollerFramework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.85

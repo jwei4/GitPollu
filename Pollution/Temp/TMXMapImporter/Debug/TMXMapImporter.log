@@ -1,0 +1,18 @@
+﻿Build started 4/17/2014 12:34:57 AM.
+     1>Project "C:\Users\Jackie Wei\Desktop\Pollution\TMXMapImporter\TMXMapImporter.vcxproj" on node 7 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Jackie Wei\Desktop\Pollution\Temp\TMXMapImporter\Debug\\" /Fd"C:\Users\Jackie Wei\Desktop\Pollution\Temp\TMXMapImporter\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\tmxmi\TMXMapImporter.cpp src\tmxmi_VS\stdafx.cpp
+         stdafx.cpp
+         TMXMapImporter.cpp
+     1>c:\users\jackie wei\desktop\pollution\tmxmapimporter\src\tmxmi\tmxmapimporter.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\jackie wei\desktop\pollution\tmxmapimporter\src\tmxmi\tmxmapimporter.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Jackie Wei\Desktop\Pollution\Common\TMXMapImporter.lib" /NOLOGO "C:\Users\Jackie Wei\Desktop\Pollution\Temp\TMXMapImporter\Debug\TMXMapImporter.obj"
+         "C:\Users\Jackie Wei\Desktop\Pollution\Temp\TMXMapImporter\Debug\stdafx.obj"
+         TMXMapImporter.vcxproj -> C:\Users\Jackie Wei\Desktop\Pollution\Common\TMXMapImporter.lib
+     1>Done Building Project "C:\Users\Jackie Wei\Desktop\Pollution\TMXMapImporter\TMXMapImporter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.82
